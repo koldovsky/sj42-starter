@@ -1,4 +1,10 @@
-# Check and fix JS style errors automatically
+# Starter for (ScriptJedi42)[https://sj42.programmingmentor.com/] Course 
+
+Check and fix JS style errors automatically
+
+## Step 0: Clone repo
+
+`git clone https://github.com/koldovsky/sj42-starter`
 
 ## Step 1: Install dependencies
 
