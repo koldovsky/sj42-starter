@@ -3,7 +3,7 @@ module.exports = {
     'browser': true,
     'es2021': true,
   },
-  'extends': 'google',
+  'extends': ['eslint:recommended', 'google'],
   'overrides': [
   ],
   'parserOptions': {
@@ -11,5 +11,8 @@ module.exports = {
     'sourceType': 'module',
   },
   'rules': {
+    'camelcase': 'error',
+    'valid-jsdoc': 0,
+    'eqeqeq': 'error'
   },
 };
