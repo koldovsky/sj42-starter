@@ -2,7 +2,7 @@
 
 Check and fix JS style errors automatically
 
-## Step 0: Clone repo
+## Step 0: Fork (clone) repo
 
 `git clone https://github.com/koldovsky/sj42-starter`
 
