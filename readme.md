@@ -2,9 +2,7 @@
 
 Check and fix JS style errors automatically
 
-## Step 0: Fork (clone) repo
-
-`git clone https://github.com/koldovsky/sj42-starter`
+## Step 0: Press 'Use this template' and make private copy of repository
 
 ## Step 1: Install dependencies
 
