@@ -15,5 +15,6 @@ module.exports = {
     'valid-jsdoc': 0,
     'eqeqeq': 'error',
     'require-jsdoc': 'off',  // Ignore 'Missing JSDoc comment' error
+    'linebreak-style': 'off',  // Ignore 'Expected linebreaks to be 'LF' but found 'CRLF'' error
   },
 };
