@@ -13,6 +13,7 @@ module.exports = {
   'rules': {
     'camelcase': 'error',
     'valid-jsdoc': 0,
-    'eqeqeq': 'error'
+    'eqeqeq': 'error',
+    'require-jsdoc': 'off',  // Ignore 'Missing JSDoc comment' error
   },
 };
